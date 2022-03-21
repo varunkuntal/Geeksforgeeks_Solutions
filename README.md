@@ -1,2 +1,2 @@
-# Geeksforgeeks_solutions
+# Geeksforgeeks_Solutions
 Coding solutions from GeeksforGeeks
