@@ -1,3 +1,6 @@
+# Problem URL:
+# https://practice.geeksforgeeks.org/problems/5ef42ba605fff6cd60b1b2dd2ee230ade1fa25b0/1
+
 #User function Template for python3
 class Solution:
     def minRepeats(self, A, B):
@@ -24,8 +27,7 @@ class Solution:
         
         return -1
             
-
-
+            
 if __name__ == '__main__': 
     t = int (input ())
     for _ in range (t):
